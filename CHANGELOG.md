@@ -1,5 +1,13 @@
 # microbundle
 
+## 0.15.1
+
+### Patch Changes
+
+- [`9a4e2b2`](https://github.com/developit/microbundle/commit/9a4e2b2096d3824661738edb142b4658cf3d9d0b) [#954](https://github.com/developit/microbundle/pull/954) Thanks [@rschristian](https://github.com/rschristian)! - Bumps Node target to v12
+
+* [`6018e58`](https://github.com/developit/microbundle/commit/6018e586b91125233026ca977a97b72bb6082ec6) [#956](https://github.com/developit/microbundle/pull/956) Thanks [@rschristian](https://github.com/rschristian)! - Silences warnings when using Node builtins with the 'node:...' protocol on imports. Warnings related to bare usage of these builtins were already silenced.
+
 ## 0.15.0
 
 ### Minor Changes
